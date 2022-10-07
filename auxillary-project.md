@@ -46,6 +46,7 @@ Change user to super and run script.
 
 `sudo su`
 
+
 ![change mode](./images/change%20user%20mode.PNG)
 
 
