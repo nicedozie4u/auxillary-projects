@@ -48,7 +48,10 @@ Change user to super and run script.
 
 ![change mode](./images/change%20user%20mode.PNG)
 
+
 User are created successfully
+
+
 ![change mode](./images/20users_created.PNG)
 
 Verify the new users
